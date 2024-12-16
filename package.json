@@ -1,0 +1,13 @@
+{
+  "name": "vue-todo-app",
+  "version": "1.0.0",
+  "description": "A simple Vue.js To-Do App",
+  "main": "src/main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
+}
